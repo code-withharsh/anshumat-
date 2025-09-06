@@ -16,8 +16,9 @@ document.getElementById("themeToggle").addEventListener("click", function() {
 
   // Button ka text change karo
   if (document.body.classList.contains("dark-mode")) {
-    this.innerText = "☀️ Light Mode";
+    this.innerText = "Light Mode";
   } else {
-    this.innerText = "🌙 Dark Mode";
+    this.innerText = "Dark Mode";
   }
+
 });
