@@ -14,12 +14,17 @@ The website showcases the foundation’s mission, initiatives, and programs whil
 -  Smooth scroll navigation  
 -  Contact form with success message  
 -  Program & Initiative cards with hover effects  
-- ✨ Clean and simple UI/UX  
+-  Clean and simple UI/UX  
 
 ---
 
 ##  Tech Stack
 - **HTML5** – Website structure  
 - **CSS3** – Styling, layout, dark/light theme, responsiveness  
-- **JavaScript (Vanilla JS)** – Smooth scroll, form handling, theme toggle  
+- **JavaScript (Vanilla JS)** – Smooth scroll, form handling, theme toggle
+  
 ---
+##  How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/code-withharsh/anshumat-
