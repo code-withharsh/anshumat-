@@ -24,7 +24,5 @@ The website showcases the foundation’s mission, initiatives, and programs whil
 - **JavaScript (Vanilla JS)** – Smooth scroll, form handling, theme toggle
   
 ---
-##  How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/code-withharsh/anshumat-
+##  Live Demo
+Check out the live version of my site here: [https://code-withharsh.github.io/anshumat-/](https://code-withharsh.github.io/anshumat-/)
